@@ -1,0 +1,2 @@
+usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/lhn/lhn123/orbslam_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lhn/lhn123/orbslam_ws/install -G Unix Makefiles
